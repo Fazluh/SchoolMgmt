@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPTRY", "PPTRY\PPTRY.csproj", "{DCEC465C-400B-4CDA-AB7C-653AFFC0CB55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCEC465C-400B-4CDA-AB7C-653AFFC0CB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCEC465C-400B-4CDA-AB7C-653AFFC0CB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCEC465C-400B-4CDA-AB7C-653AFFC0CB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCEC465C-400B-4CDA-AB7C-653AFFC0CB55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {545C8939-0818-411C-AB7E-21B2D8B05E0F}
+	EndGlobalSection
+EndGlobal
